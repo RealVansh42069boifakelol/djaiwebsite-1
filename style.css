@@ -1,0 +1,10 @@
+canvas {
+    border:5px;
+    border-style: solid;
+    margin: 20px;
+    padding: 15px;
+}
+
+body{ 
+    background-size: cover;
+}
